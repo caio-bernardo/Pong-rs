@@ -1,6 +1,6 @@
 # PONG
 
-![./assets/Pong-Screen.png](Exaple of the game)
+![Game Example](./assets/Pong-Screen.png)
 
 A simple game of Pong, made with Rust and OpenGL
 
